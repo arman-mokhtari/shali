@@ -1,7 +1,40 @@
 {
-  "name": "my-app",
+  "name": "shalibag-ecommerce",
   "version": "0.1.0",
   "private": true,
+  "description": "Premium online store for high-quality scarves and fashion accessories with minimalist design aesthetics. Shalibag offers elegant, stylish products with a seamless shopping experience.",
+  "keywords": [
+    "shalibag",
+    "شالی بگ",
+    "scarf",
+    "شال",
+    "fashion accessories",
+    "اکسسوری مد",
+    "online store",
+    "فروشگاه آنلاین",
+    "ecommerce",
+    "تجارت الکترونیک",
+    "iranian fashion",
+    "مد ایرانی",
+    "minimalist design",
+    "طراحی مینیمال",
+    "premium scarves",
+    "شال های لوکس",
+    "next.js",
+    "react",
+    "tailwindcss",
+    "slate.js"
+  ],
+  "author": {
+    "name": "Shalibag Team",
+    "email": "info@shalibag.ir",
+    "url": "https://shalibag.ir"
+  },
+  "homepage": "https://shalibag.ir",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arman-mokhtari/shali"
+  },
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build",
